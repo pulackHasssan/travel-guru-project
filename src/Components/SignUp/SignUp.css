@@ -1,0 +1,25 @@
+.sign-up-style{
+    margin: 20px 400px;
+}
+.form-box{
+    text-align: center;
+    width: 500px;
+    min-height: 300px;
+    border: 1px solid grey;
+}
+.form-box h1, .form-box p, .social-button{
+    color: black;
+}
+.form-box form input{
+    color: black;
+    border-bottom: 1px solid black;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    padding: 5px;
+}
+.social-button{
+    width: 500px;
+    padding: 5px;
+    border-radius: 10px;
+}

@@ -1,0 +1,17 @@
+.nav-style{
+    margin-left: 400px;
+}
+.nav-link{
+    padding: 10px;
+    margin-right: 20px
+}
+.logo{
+    width: 100px;
+    filter: brightness(1000%);
+}
+.navigation{
+    background-color: rgb(82, 72, 72);
+}
+.search-bar{
+    background: transparent;
+}

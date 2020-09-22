@@ -1,0 +1,17 @@
+.booking-component{
+    background-color: white;
+    color: black;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+}
+.booking-component form input{
+
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+}
+.booking-button{
+    width: 50%;
+    background-color: rgb(245, 202, 13);
+}
